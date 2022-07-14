@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/choppd/static/css/main.17bb2277.css",
-    "main.js": "/choppd/static/js/main.d5887c3a.js",
-    "index.html": "/choppd/index.html",
-    "main.17bb2277.css.map": "/choppd/static/css/main.17bb2277.css.map",
-    "main.d5887c3a.js.map": "/choppd/static/js/main.d5887c3a.js.map"
+    "main.css": "/tone-app/static/css/main.17bb2277.css",
+    "main.js": "/tone-app/static/js/main.d5887c3a.js",
+    "index.html": "/tone-app/index.html",
+    "main.17bb2277.css.map": "/tone-app/static/css/main.17bb2277.css.map",
+    "main.d5887c3a.js.map": "/tone-app/static/js/main.d5887c3a.js.map"
   },
   "entrypoints": [
     "static/css/main.17bb2277.css",
